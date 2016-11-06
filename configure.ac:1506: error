@@ -1,0 +1,7 @@
+When Running the autoreconf -i
+The error information shows below and I could not get solution from search engine
+
+<<<<<<<<<<<<<<<<<<<<<<<<<
+configure.ac:1506: error: required file 'common-agent/etc/config/Makefile.in' not found
+common-agent/etc/Makefile.am:18: error: required directory common-agent/etc/config does not exist
+<<<<<<<<<<<<<<<<<<<<<<<<<
